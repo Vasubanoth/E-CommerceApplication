@@ -17,4 +17,3 @@ Our **E-Commerce Backend Application** is a robust and scalable solution develop
 - **H2/MySQL** – Database for persisting application data
 - **JUnit/Mockito** – Unit and integration testing
 
-## Project Structure
